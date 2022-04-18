@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2314" started-at="2022-04-18T11:36:39 IST" finished-at="2022-04-18T11:36:42 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2314" started-at="2022-04-18T11:36:39 IST" finished-at="2022-04-18T11:36:42 IST">
+      <class name="googleTest.SpecBuilderTest">
+        <test-method status="PASS" signature="test()[pri:0, instance:googleTest.SpecBuilderTest@3234e239]" name="test" duration-ms="2271" started-at="2022-04-18T11:36:40 IST" finished-at="2022-04-18T11:36:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- googleTest.SpecBuilderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
